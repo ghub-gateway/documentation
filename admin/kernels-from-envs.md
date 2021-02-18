@@ -26,7 +26,7 @@ which conda
 ```
 conda create -n environment_name python=3.7 
 source activate environment_name
-conda install -c ipykernel conda-forge package1 package2 package3
+conda install -c conda-forge ipykernel package1 package2 package3
 ```
 
 Any pip installs should be installed last for safety, e.g.
