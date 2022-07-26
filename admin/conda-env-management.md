@@ -21,7 +21,7 @@ are proper. We round up the packages that interoperate, and install them.
 
 Hubzero docs:
 
-[https://help.hubzero.org/documentation/22/tool-administrators/adding-additional-packages-to-jupyter-notebooks](https://help.hubzero.org/documentation/22/tool-administrators/adding-additional-packages-to-jupyter-notebooks)
+[https://help.hubzero.org/documentation/22/tool-administrators/jupyter-notebooks](https://help.hubzero.org/documentation/22/tool-administrators/jupyter-notebooks)
 
 ### No need to clone 'base'
 
